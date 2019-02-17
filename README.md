@@ -1,1 +1,2 @@
-# Tareas_ml
+# K-nearest neighbor
+Beginner K-nearest neighbor project
